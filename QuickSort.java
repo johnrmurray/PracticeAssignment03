@@ -1,5 +1,3 @@
-package p03;
-
 public class QuickSort implements SortingAlgorithm {
 	
 	public int partition(int [] a, int top, int bot) {
