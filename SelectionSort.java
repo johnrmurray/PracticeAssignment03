@@ -1,5 +1,3 @@
-package p03;
-
 public class SelectionSort implements SortingAlgorithm {
 	
 	public void swap(int[] a, int i, int j) {
