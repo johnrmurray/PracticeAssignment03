@@ -1,5 +1,3 @@
-package p03;
-
 public class MergeSort implements SortingAlgorithm{
 	
 	public void sort(int[] a, int[] top, int[] bot) {
