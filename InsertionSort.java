@@ -11,6 +11,4 @@ public class InsertionSort implements SortingAlgorithm {
 			a[j+1] = temp;
 		}
 	}
-	
-
 }
